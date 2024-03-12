@@ -1,4 +1,4 @@
-
+# Armazenamento de arquivos
 - Não se trata apenas de um repositório de documentos!
 - Sistemas de arquivos orientados a dados armazenam dados vivos que são usados para transição entre diferentes sistemas.
 - Características do armazenamento de arquivos:

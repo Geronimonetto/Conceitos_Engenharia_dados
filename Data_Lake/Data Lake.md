@@ -1,4 +1,4 @@
-
+# Data Lake
 Os data lakes como o próprio nome diz é onde uma empresa armazena seus dados para futuras análises.
 
 - Exemplo de data Lake - S3 (AWS)
